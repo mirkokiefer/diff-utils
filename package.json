@@ -1,0 +1,15 @@
+{
+  "name": "diff-utils",
+  "version": "0.0.1",
+  "description": "simple diffing of objects and sets",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.3"
+  }
+}
