@@ -1,6 +1,8 @@
 #diff-utils
 
-Simple utility functions that give you diffs of objects or arrays with unique strings:
+Simple utility functions that give you diffs of objects or arrays with unique strings.
+
+For diffing arrays based on longest common subsequences see [array-diff](https://github.com/mirkok/array-diff).
 
 Diffing objects:
 ``` js
